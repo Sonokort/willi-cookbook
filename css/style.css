@@ -1,0 +1,50 @@
+h1,
+h2,
+h3 {
+    color: aliceblue;
+    background-color: rgba(123, 123, 131, 0.897);
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+    text-indent: 2cm;
+    text-decoration: underline; 
+ }
+
+p {
+    font-size: large;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+
+
+.recipe-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+* {
+    background-color: rgba(211, 187, 187, 0.782);
+}
+
+h1,
+h2,
+h3 {
+    color: aliceblue;
+    background-color: rgba(123, 123, 131, 0.897);
+}
